@@ -8,11 +8,11 @@ Please remember, you're representing Scroll's community when you engage with oth
 
 ### Finding an Issue
 
-On our Issues page, you'll find a number of ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
+On our Issues page, you'll find several ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
 
 ### Creating an Issue
 
-Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
+Have an idea you'd like to see built? Want to see Scroll integrated into your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
 
 #### How to create an issue?
 To create an issue, you have several options:
